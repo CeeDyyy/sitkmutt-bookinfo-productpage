@@ -7,4 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD [ "python", "productpage.py", "9080" ]
+CMD [ "python", "productpage.py", "8083" ]
